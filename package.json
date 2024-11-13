@@ -1,0 +1,14 @@
+{
+  "name": "express-starter-script",
+  "version": "1.0.0",
+  "description": "A script to set up an Express project with MongoDB",
+  "main": "setup.js",
+  "bin": {
+    "setup-express": "./setup.js"
+  },
+  "scripts": {
+    "start": "node setup.js"
+  },
+  "author": "DEKHIL_Omran",
+  "license": "MIT"
+}
