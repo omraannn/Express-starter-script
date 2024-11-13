@@ -1,6 +1,6 @@
 {
   "name": "express-starter-script",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A script to set up an Express project with MongoDB",
   "keywords": ["express", "node js", "javascript", "starter", "express starter"],
   "main": "setup.js",

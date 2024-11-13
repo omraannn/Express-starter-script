@@ -6,14 +6,14 @@
 This script is used to quickly set up a Node.js project with **Express** and **MongoDB**. It will create a new project directory, initialize the project with `npm`, install necessary dependencies, and set up basic files and structure for an Express app that connects to MongoDB.
 
 ## 📑 Table of Contents
-- [How to Use](#how-to-use)
-- [What This Script Does](#what-this-script-does)
-- [Requirements](#requirements)
-- [Folder Structure](#folder-structure)
-- [Customization](#customization)
-- [Contribute](#contribute)
-- [Author](#author)
-- [License](#license)
+- [How to Use](#-how-to-use)
+- [What This Script Does](#-what-this-script-does)
+- [Requirements](#-requirements)
+- [Folder Structure](#-folder-structure)
+- [Customization](#-customization)
+- [Contribute](#-contribute)
+- [Author](#-author)
+- [License](#-license)
 
 ## ✅ How to Use:
 
