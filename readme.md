@@ -1,5 +1,8 @@
 # 🚀 EXPRESS STARTER SCRIPT
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/omraannn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dekhilomran/)
+
 This script is used to quickly set up a Node.js project with **Express** and **MongoDB**. It will create a new project directory, initialize the project with `npm`, install necessary dependencies, and set up basic files and structure for an Express app that connects to MongoDB.
 
 ## 📑 Table of Contents
@@ -57,7 +60,7 @@ This script is used to quickly set up a Node.js project with **Express** and **M
 
 ---
 
-## 🔧Requirements:
+## 🔧 Requirements:
 
 - Make sure you have **Node.js** and **npm** installed on your system.
 - MongoDB should be set up and running, or you can use a cloud service like MongoDB Atlas.
